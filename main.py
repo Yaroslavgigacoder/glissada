@@ -107,7 +107,7 @@ def calculatedEkEg(phiLA, lyambdaLA, Hla):
 
     print(list_Ekv, list_Egv)
     return list_Ekv, list_Egv
-# ff
+
 
 
 # Считывания координат и высоты ЛА
